@@ -157,15 +157,18 @@ This provides a simple CI/CD pipeline for the frontend application.
 ---
 
 ## Amazon S3 Bucket Configuration
-![alt text](<s3 bucket screenshot.PNG>)
+<img width="593" height="162" alt="s3 bucket screenshot" src="https://github.com/user-attachments/assets/69e7bd1b-b9d9-4660-a626-fa342034b3e5" />
+
 ---
 
 ## API Gateway Configuration
-![alt text](<API gateway screenshot.PNG>)
+<img width="610" height="218" alt="API gateway screenshot" src="https://github.com/user-attachments/assets/28e82009-309e-439c-a351-777ddeda25c8" />
+
 ---
 
 ## AWS Amplify Deployment
-![alt text](<Aws AMplify.PNG>)
+<img width="594" height="194" alt="Aws AMplify" src="https://github.com/user-attachments/assets/5b840b86-428d-4257-a1c5-23d3a11952f4" />
+
 ---
 
 # Monitoring

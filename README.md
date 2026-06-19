@@ -152,7 +152,8 @@ This provides a simple CI/CD pipeline for the frontend application.
 # 📷 Screenshots
 
 ## User Interface
-![alt text](<Rekognition App Screenshot.PNG>)
+<img width="654" height="367" alt="Rekognition App Screenshot" src="https://github.com/user-attachments/assets/b2962d54-d5b2-406f-a28a-68b964a32db6" />
+
 ---
 
 ## Amazon S3 Bucket Configuration

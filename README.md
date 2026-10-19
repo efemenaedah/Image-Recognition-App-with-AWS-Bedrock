@@ -118,20 +118,20 @@ Configure environment variables:
 
 ## Step 5: API Gateway
 
+### Create Deployment Stage
+Example: dev
+
 ### Configure CORS
 Enable:
-Access-Control-Allow-Origin
-Access-Control-Allow-Methods
-Access-Control-Allow-Headers
+1. Allow-Origin: *
+2. Access-Control-Allow-Methods
+3. Access-Control-Allow-Headers
+4. Allow Methods: GET, OPTIONS
 
 ---
 
 ## Integrate with Lambda Function: 
 Create a REST API and connect it to the Lambda function.
-
-### Create Deployment Stage
-Example:
-dev
 
 Test the endpoint to verify connectivity.
 
